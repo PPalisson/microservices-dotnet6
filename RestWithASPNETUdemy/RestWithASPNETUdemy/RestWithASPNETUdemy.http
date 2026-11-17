@@ -1,3 +1,5 @@
+# Arquivo de testes HTTP: execute as requisicoes pelo editor com a API iniciada.
+# Ajuste HostAddress para a URL/porta exibida na inicializacao da sua API.
 @RestWithASPNETUdemy_HostAddress = http://localhost:5027
 
 GET {{RestWithASPNETUdemy_HostAddress}}/weatherforecast/
